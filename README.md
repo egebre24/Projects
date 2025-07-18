@@ -16,3 +16,10 @@ Bayes, Decision tree, Random Forest, K-Means Clustering, and DBSCAN to uncover c
 predictive accuracy. 
 ● Developed predictive models to optimize resource allocation for law enforcement. Testing and training these 
 models by creating a balanced test for the unbalanced models using SMOT. 
+
+
+## Capstone Project
+A project that conducts a study on immigration integration &urban development in the US to inform policy on 
+economic inclusion and resilience.  
+● Using U.S. census data, a time-series analysis was created, along with predictive models such as linear 
+regressions, K-means, and XGBoost
