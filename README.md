@@ -19,6 +19,7 @@ models by creating a balanced test for the unbalanced models using SMOT.
 
 
 ## Capstone Project
+01/2025 - 05/2025
 A project that conducts a study on immigration integration &urban development in the US to inform policy on 
 economic inclusion and resilience.  
 ● Using U.S. census data, a time-series analysis was created, along with predictive models such as linear 
